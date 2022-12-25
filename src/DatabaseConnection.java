@@ -1,5 +1,7 @@
 package com.example.dictionary;
 
+// class for connecting the application to database 
+
 import java.sql.*;
 
 public class DatabaseConnection {
